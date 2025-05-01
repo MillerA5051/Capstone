@@ -75,12 +75,3 @@ pip install opencv-python
 2. Train the recognizer (`Train Recognizer`)
 3. Start recognition (`Real-Time Recognition`)
 
-## 📄 License
-
-MIT License — free to use and modify.
-
-```
-
----
-
-Let me know if you'd like a version with screenshots, usage tips, or GitHub Actions for testing.

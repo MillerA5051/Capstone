@@ -36,7 +36,7 @@ my-face-recognition-project/
 ```
 
 ## 📦 Requirements
-
+best used on vscode
 Install the dependencies using pip:
 
 ```bash

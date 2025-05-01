@@ -41,6 +41,7 @@ Install the dependencies using pip:
 
 ```bash
 pip install opencv-contrib-python numpy
+pip install opencv-python
 ```
 
 > ⚠️ Make sure to install `opencv-contrib-python` (not just `opencv-python`) to access the `cv2.face` module.

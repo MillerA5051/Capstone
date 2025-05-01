@@ -75,3 +75,6 @@ pip install opencv-python
 2. Train the recognizer (`Train Recognizer`)
 3. Start recognition (`Real-Time Recognition`)
 
+help.)
+use control c to exit real time recognition
+
